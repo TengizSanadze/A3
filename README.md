@@ -1,3 +1,8 @@
+I know this is late submission but will be happy if I get at least partial credit. Thank you.
+
+
+
+
 Database class holds an ArrayList of Movie objects.
 
 The database can be saved to a text file and also read in Movie objects from text file.
