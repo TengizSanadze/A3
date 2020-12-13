@@ -1,7 +1,3 @@
-I know this is late submission but will be happy if I get at least partial credit. Thank you.
-
-
-
 
 Database class holds an ArrayList of Movie objects.
 
