@@ -1,3 +1,6 @@
+This was one of those first code I wrote wich had couple variables and loops in it. After that I learned a lot modified code.It  has constructor for objects of class Database,
+scanner to Read one line of the text file into a string, line split to Split the line by comma into a String array, function to Add a movie to the database, throw a NullPointerException if object in argument is not set,  another function to Deletes all the Movie objects in the current database ArrayList, another function to Displays all movie titles in the database and a lot more. 
+
 
 Database class holds an ArrayList of Movie objects.
 
